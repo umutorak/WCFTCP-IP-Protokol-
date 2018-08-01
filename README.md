@@ -1,2 +1,4 @@
 # WCFTCP-IP-Protokol-
-Bu Proje deneme amaçlı yapılmıştır.
+**İletişim Protokolü** 
+
+[WCF Mimari](http://www.enterprisecoding.com/post/wcf-giris)
